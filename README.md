@@ -7,6 +7,6 @@ _Astola Here! I am an Android Developer. I chose Java because i just love it. I 
 - 👯 I’m looking to collaborate on **Android Java Projects**
 - 🤔 I’m looking for help with my Project [Balochi-Labz-Balad](https://github.com/astola-studio/Balochi-Labz-Balad)
 - 💬 Ask me about **Development, Modding, Tech Stuff**
-- 📫 How to reach me: <a href="https://whatsapp.com/channel/0029VaA9hJGD38CKpIQk8W32"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
+- 📫 How to reach me: <a href="https://whatsapp.com/channel/0029VaA9hJGD38CKpIQk8W32"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"></img></a>
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **“I learn’t everything without a teacher since 2G Era HEHE! Cheers ✌️”**
