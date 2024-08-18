@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Astola%20Studio-Github-blue) ![](https://komarev.com/ghpvc/?username=astola-studio) ![](https://img.shields.io/badge/Whatsapp-5K-blue) ![](https://img.shields.io/badge/Telegram-13K-blue)
+[![Astola Studio Github](https://img.shields.io/badge/Astola%20Studio-Github-blue)](https://github.com/astola-studio) [![Profile Views](https://komarev.com/ghpvc/?username=astola-studio)](https://github.com/astola-studio) [![Whatsapp Channel](https://img.shields.io/badge/Whatsapp-5K-blue)](https://whatsapp.com/channel/0029VaA9hJGD38CKpIQk8W32) [![Telegram Channel](https://img.shields.io/badge/Telegram-13K-blue)](https://t.me/Astola_Studio)
 ## Hi there 👋
 _Astola Here! I am an Android Developer. I chose Java because i just love it. I also learnt Android Modding (Smali) on my own, and everything. Because why not. **“Yourself is your best teacher.”** right?_
 
