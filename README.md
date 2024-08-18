@@ -9,4 +9,4 @@ _Astola Here! I am an Android Developer. I chose Java because i just love it. I 
 - 💬 Ask me about **Development, Modding, Tech Stuff**
 - 📫 How to reach me: <a href="https://whatsapp.com/channel/0029VaA9hJGD38CKpIQk8W32"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"></img></a>
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **“I learn’t everything without a teacher since 2G Era HEHE! Cheers ✌️”**
+- ⚡ Fun fact: **“I learnt everything without a teacher since 2G Era HEHE! Cheers ✌️”**
