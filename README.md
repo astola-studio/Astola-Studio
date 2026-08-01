@@ -4,9 +4,9 @@ _Astola Here! I am an Android Developer. I chose Java because i just love it. I 
 
 <p align="left"> <a href="https://github.com/astola-studio/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astola-studio&theme=blue-green" alt="astola-studio" /></a> </p>
 
-- 🔭 I’m currently working on [**WhatsApp Enhancer**](https://github.com/astola-studio/WaEnhancer)
+- 🔭 I’m currently working on [**ADBFileManager**](https://github.com/astola-studio/ADBFileManager)
 - 🌱 I’m currently learning **anything i find interesting**
-- 👯 I’m looking to collaborate on **Android Java/Smali Projects**
+- 👯 I’m looking to collaborate on **Android Java, Smali, or MS.NET Projects**
 - 🤔 I’m looking for help with my Project [**Balochi-Labz-Balad**](https://github.com/astola-studio/Balochi-Labz-Balad)
 - 💬 Ask me about **Development, Modding, Tech Stuff**
 - 📫 How to reach me: <a href="https://whatsapp.com/channel/0029VaA9hJGD38CKpIQk8W32"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"></img></a>
